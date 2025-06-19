@@ -7,7 +7,7 @@
 A simple **Rock Paper Scissors** game implemented in Python — perfect for beginners learning input/output, conditionals, and basic logic!
 This version runs easily in **Google Colab**, making it accessible for anyone to play and tweak.
 <p align="center">
-  <img src="Screenshot 2025-06-02 021829.png" alt="Demo Screenshot" width="500"/>
+  <img src="Screenshot 2025-06-19 173201.png" alt="Demo Screenshot" width="500"/>
 </p>
 
 ## 📌 Features
